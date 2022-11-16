@@ -7,4 +7,7 @@
 #output the answer to the user
 
 user_number = input("What number would you like to convert? ")
+user_unit = input("What unit is your number? ")
+
 print(user_number)
+print(user_unit)
